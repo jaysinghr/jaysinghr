@@ -19,21 +19,18 @@
 
 ## About Me
 
-Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to contribute to open-source projects. I'm currently working as a Data Science Developer 2 at Oracle. When I'm not immersed in code or exploring new technologies, I enjoy Exploring trails on my bike, conquering the pool laps, Always up for trying a new restaurant or exotic dish and Cheering on my favorite teams, playing for fun.
+Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to contribute to open-source projects. I'm currently working as a Data Science Developer 2 at Oracle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Data Science Developer 2 at ![Oracle]({https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black}).
+- 🌱 Delving into Natural Language Processing, Generative AI and Distributed Training at Scale.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/jaydeepsinh-rajput/)
+- 😄 Pronouns: He/His/Him.
+- ⚡ Fun fact: I enjoy Exploring trails on my bike, conquering the pool laps, Always up for trying a new restaurant or exotic dish and Cheering on my favorite teams, playing for fun. Sometimes, Schooling myself on the nuances of stock trading and investment strategies.
 
 ---
 ## Skills
 
-* **Technical:** [List of your technical skills]
+* **Technical:** Python, C++(Sometimes), Pytorch, Scikit-Learn, Tensorflow, Keras, Hugging Face, Fast AI, MLFlow, Docker, Gitlab/Github, Machine Learning, Natural Language Processing, Deep Learning, Generative AI, Oracle Cloud, Azure Cloud, GCP Cloud, Terraform, Jira, Agile, Streamlit, Gradio, Django, Documentation, Technical Blogs, ADW, Opensearch
 * **Soft:** [List of your soft skills]
 
 ---
