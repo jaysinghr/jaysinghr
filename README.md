@@ -1,5 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/I5yDbS2KVPQZVGu6fB/giphy.gif" width="100"/>
+  <h1 align='center'>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Jay 👨‍💻
+  </h1>
+
+  <p align='center'>
+    A Machine Learning Engineer from India.
+  </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jaydeepsinh-rajput/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +18,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  </h1>
 </div>
 
 ## About Me
