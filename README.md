@@ -52,6 +52,8 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 
 
 ---
+## Experience
+
 <img align="right" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
 
