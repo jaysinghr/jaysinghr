@@ -28,7 +28,7 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 - 🌱 Delving into Natural Language Processing, Generative AI and Distributed Training at Scale.
 - 😄 Pronouns: He/His/Him.
 - ⚡ Fun fact: I enjoy Exploring trails on my bike, conquering the pool laps, Always up for trying a new restaurant or exotic dish and Cheering on my favorite teams, playing for fun. Sometimes, Schooling myself on the nuances of stock trading and investment strategies.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-rajput/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-rajput/)
 
 ---
 
@@ -49,6 +49,12 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 <img align="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+
+* **Cloud Platforms**
+
+* **CI/CD**
+
+* **Web Development**
 
 
 ---
