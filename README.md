@@ -24,11 +24,11 @@
 
 Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to contribute to open-source projects. I'm currently working as a Data Science Developer 2 at Oracle.
 
-- 🔭 I’m currently working as a Data Science Developer 2 at ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black).
+- 🔭 I’m currently working as a Data Science Developer 2 at ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black).
 - 🌱 Delving into Natural Language Processing, Generative AI and Distributed Training at Scale.
 - 😄 Pronouns: He/His/Him.
 - ⚡ Fun fact: I enjoy Exploring trails on my bike, conquering the pool laps, Always up for trying a new restaurant or exotic dish and Cheering on my favorite teams, playing for fun. Sometimes, Schooling myself on the nuances of stock trading and investment strategies.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-rajput/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-rajput/)
 
 ---
 
