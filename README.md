@@ -44,6 +44,7 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 <img align="" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 
+----
 * **Machine Learning Frameworks**
 
 <img align="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
