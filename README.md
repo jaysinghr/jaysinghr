@@ -86,7 +86,6 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 <img align="" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 
 ---
@@ -97,7 +96,7 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 
 
 - 👨‍💻 **Data Science Developer 2**\
-📆 October-2021 - moment\
+📆 October, 2021 - moment\
 📍 **Oracle** - Bengalore, India
 
 
@@ -116,10 +115,17 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 * [Other relevant projects] (briefly summarize)
 
 ---
-## Awards and Recognition (if applicable)
+## COURSES & CERTIFICATES
 
-* [Award name] ([Year]) (mention the awarding body and significance)
-* [Other awards and recognition] (briefly summarize)
+* ![Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/8238F8138BB3C23?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
+* ![Build an Azure AI Vision solution](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/F573283652D0FDC3?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
+* ![Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/4F442CF49A92705F?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
+* [Deep Learning Foundations to Stable Diffusion] ([2023]) (Fast AI)
+* [Practical Deep Learning for Coders Part 1] ([2023]) (Fast AI)
+* [Oracle Cloud Data Science Professional] ([2022]) (Oracle Cloud)
+* [Oracle Cloud Foundations] ([2021]) (Oracle Cloud)
+* [Applied Machine Learning Course] ([2019-2020]) (Applied AI Course)
+* [Turing Machine - Digital Machine Learning Engineer] ([2018]) (Tata Consultancy Services)
 
 ---
 ## Get in touch
