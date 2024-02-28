@@ -117,15 +117,15 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## COURSES & CERTIFICATES
 
-* ![Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/8238F8138BB3C23?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
-* ![Build an Azure AI Vision solution](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/F573283652D0FDC3?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
-* ![Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/4F442CF49A92705F?sharingId=BE40F7673C967B70) ([2023]) (Microsoft)
-* [Deep Learning Foundations to Stable Diffusion] ([2023]) (Fast AI)
-* [Practical Deep Learning for Coders Part 1] ([2023]) (Fast AI)
-* [Oracle Cloud Data Science Professional] ([2022]) (Oracle Cloud)
-* [Oracle Cloud Foundations] ([2021]) (Oracle Cloud)
-* [Applied Machine Learning Course] ([2019-2020]) (Applied AI Course)
-* [Turing Machine - Digital Machine Learning Engineer] ([2018]) (Tata Consultancy Services)
+- [Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/8238F8138BB3C23?sharingId=BE40F7673C967B70) (Microsoft, 2023)
+- [Build an Azure AI Vision solution](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/F573283652D0FDC3?sharingId=BE40F7673C967B70) (Microsoft, 2023)
+- [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/4F442CF49A92705F?sharingId=BE40F7673C967B70) (Microsoft, 2023)
+- [Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) (Fast AI, 2023)
+- [Practical Deep Learning for Coders Part 1](https://course.fast.ai/Lessons/lesson1.html) (Fast AI, 2023)
+- [Oracle Cloud Data Science Professional](https://oracle.com) (Oracle Cloud, 2022)
+- [Oracle Cloud Foundations](https://oracle.com) (Oracle Cloud, 2021)
+- [Applied Machine Learning Course](https://appliedaicourse.com) (Applied AI Course, 2019-2020)
+- [Turing Machine - Digital Machine Learning Engineer](https://tcs.com) (Tata Consultancy Services, 2018)
 
 ---
 ## Get in touch
