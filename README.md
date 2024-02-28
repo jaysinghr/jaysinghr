@@ -120,6 +120,8 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 - [Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/8238F8138BB3C23?sharingId=BE40F7673C967B70) (Microsoft, 2023)
 - [Build an Azure AI Vision solution](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/F573283652D0FDC3?sharingId=BE40F7673C967B70) (Microsoft, 2023)
 - [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/JaydeepsinhRajput/4F442CF49A92705F?sharingId=BE40F7673C967B70) (Microsoft, 2023)
+- [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) (DeepLearning.AI, 2023)
+- [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) (Deep Learning.AI, 2023)
 - [Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) (Fast AI, 2023)
 - [Practical Deep Learning for Coders Part 1](https://course.fast.ai/Lessons/lesson1.html) (Fast AI, 2023)
 - [Oracle Cloud Data Science Professional](https://oracle.com) (Oracle Cloud, 2022)
