@@ -98,6 +98,31 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 - 👨‍💻 **Data Science Developer 2**\
 📆 October, 2021 - moment\
 📍 **Oracle** - Bengalore, India
+- Achievements/Tasks
+* Building Data Science and Analytics platform offering pre-configured multi-tenant
+environment to speed up (by ~20%) Data Science/Machine Learning/Deep Learning/Computer Vision/etc... projects  for Oracle Teams and their clients using Oracle cloud services.
+* Integrated OCI(Oracle Cloud) services like OCI Data Science, Generative AI, Generative Agents, Digital Assistants with our Data Science and Analytics platform
+
+---
+### Data Science Developer 2  
+- **Company:** Oracle  
+- **Location:** Bengalore, India  
+- **Dates:** October 2021 - Present  
+
+**Achievements/Tasks:**  
+- 🚀 Built a Data Science and Analytics platform offering a pre-configured multi-tenant environment to accelerate (by approximately 20%) Data Science, Machine Learning, Deep Learning, and Computer Vision projects for Oracle Teams and their clients using Oracle cloud services.  
+- 🔗 Integrated OCI (Oracle Cloud Infrastructure) services such as OCI Data Science, Generative AI, Generative Agents, and Digital Assistants with our Data Science and Analytics platform.  
+
+---
+
+- 👨‍💻 **Systems Engineer**\
+📆 July, 2017 - October, 2021\
+📍 **Tata Consultancy Services** - Hyderabad, India
+- Achievements/Tasks
+* Decreased the data annotation time by ~50% by introducing tool for
+annotating data for NLP/NLU tasks
+* Added customer by building PoC for anomaly detection using deep
+learning model with 92% accuracy
 
 
 ---
