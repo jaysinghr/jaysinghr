@@ -95,8 +95,8 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 
 ### Data Science Developer 2  
 👨‍💻 **Company:** Oracle  
-📆 **Location:** Bengalore, India  
-📍 **Dates:** October 2021 - Present  
+📆 **Dates:** October 2021 - Present  
+📍  **Location:** Bengalore, India
 
 **Achievements/Tasks:**  
 - 🚀 Building a Data Science and Analytics platform offering a pre-configured multi-tenant environment to accelerate (by approximately 20%) Data Science, Machine Learning, Deep Learning, and Computer Vision projects for Oracle Teams and their clients using Oracle Cloud services.  
@@ -107,8 +107,8 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 
 ### Systems Engineer
 👨‍💻 **Company:** Tata Consultancy Services  
-📆 **Location:** Hyderabad, India  
-📍 **Dates:** July 2017 - October 2021
+📆 **Dates:** July 2017 - October 2021  
+📍  **Location:** Hyderabad, India
 
 **Achievements/Tasks:**  
 - ⏳ Decreased data annotation time by approximately 50% by introducing a tool for annotating data for NLP/NLU tasks.  
@@ -117,7 +117,7 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## Education
 
-- 📖 **Master of Computer Application**\
+📖 **Master of Computer Application**\
 📆 2015 - 2019\
 📍 **Gujarat Technological University** - Ahmedabad, India
 
@@ -150,5 +150,10 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 * 📧 Email: [jrajput262@gmail.com](mailto:jrajput262@gmail.com)
 * 🌐 Portfolio: [jaysinghr.github.io](https://jaysinghr.github.io/)
 * 💼 LinkedIn: [jaydeepsinh-rajput](https://www.linkedin.com/in/jaydeepsinh-rajput/)
+
+---
+[![Jay’s github stats](https://github-readme-stats.vercel.app/api?username=jaysinghr)](https://github.com/jaysinghr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysinghr&layout=compact)](https://github.com/jaysinghr)
 
 </details>
