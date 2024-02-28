@@ -132,8 +132,8 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## Get in touch
 
-* Email: [Your Email Address]
-* Website/Blog: [Your Website/Blog URL] (if applicable)
-* Social Media: [Links to your social media profiles]
+* Email: [jrajput262@gmail.com]
+* Website/Blog: [Jay Rajput](https://jaysinghr.github.io/)
+* Social Media: ![[Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-rajput/)
 
 </details>
