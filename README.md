@@ -159,11 +159,3 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysinghr&layout=compact)](https://github.com/jaysinghr)
 
 </details>
-
-
-Developed a Proof of Concept (PoC) for a Retrieval Augmented Generation (RAG) application using Oracle Cloud user guide, incorporating Hugging Face pipeline and FAISS database to store embedding vectors.
-
-Integrated Langchain for chat functionality to enhance the RAG application's capabilities.
-
-
-Utilized LLAMA 2 framework to build and optimize the Oracle Cloud-based RAG application for efficient performance.
