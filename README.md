@@ -11,8 +11,8 @@
     <a href="https://www.linkedin.com/in/jaydeepsinh-rajput/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://huggingface.co/Jay-Rajput">
-      <img src="https://img.shields.io/badge/Hugging Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
+    <a href="https://www.kaggle.com/anticsishere">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
     <a href="https://twitter.com/__Jay_Singh__">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -39,12 +39,12 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## Skills
 
-* **Programming Languages**
+### Programming Languages
 
 <img align="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-* **Machine Learning Frameworks**
+### Machine Learning Frameworks
 
 <img align="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -56,32 +56,32 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 <img align="" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
 <img align="" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 
-* **Cloud Platforms**
+### Cloud Platforms
 <img align="" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" />
 
-* **CI/CD & Containerization**
+### CI/CD & Containerization
 <img align="" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-* **Web Development**
+### Web Development
 <img align="" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
-* **Project Management and Collaboration**
+### Project Management and Collaboration
 <img align="" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 
-* **Version Control**
+### Version Control
 <img align="" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-* **Other**
+### Other
 <img align="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
@@ -99,8 +99,9 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 📍  **Location:** Bengalore, India
 
 **Achievements/Tasks:**  
-- 🚀 Building a Data Science and Analytics platform offering a pre-configured multi-tenant environment to accelerate (by approximately 20%) Data Science, Machine Learning, Deep Learning, and Computer Vision projects for Oracle Teams and their clients using Oracle Cloud services.  
-- 🔗 Integrated OCI (Oracle Cloud Infrastructure) services such as OCI Data Science, Generative AI, Generative Agents, and Digital Assistants with our Data Science and Analytics platform.  
+- 🚀 Building a Data Science and Analytics platform offering a pre-configured multi-tenant environment to accelerate (by approximately 20%) Data Science, Machine Learning, Deep Learning, and Generative AI projects for Oracle Teams and their clients using Oracle Cloud services.  
+- 🔗 Integrated OCI (Oracle Cloud Infrastructure) services such as OCI Data Science, Generative AI, Generative AI Agents, and Digital Assistants with our Data Science and Analytics platform.
+- 🎯 Maintaining Gitlab, custom Python Package PyPi registry and Conda environments for diverse Machine Learning tasks.
 
 ---
 <img align="right" src="https://img.shields.io/badge/Tata%20Consultancy%20Services-EE3984.svg?style=for-the-badge&logo=Tata-Consultancy-Services&logoColor=white" />
@@ -111,8 +112,9 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 📍  **Location:** Hyderabad, India
 
 **Achievements/Tasks:** 
-- ⏳ Decreased data annotation time by approximately 50% by introducing a tool for annotating data for NLP/NLU tasks.  
+- ⏳ Decreased data annotation time by approximately 50% by introducing a tool for annotating data for NLP/NLU tasks, specially for Named Entity Recognition tasks.
 - 🎯 Acquired a customer by building a Proof of Concept (PoC) for Anomaly Detection from images using a deep learning model with 92% accuracy.
+- 🚀 Built vehicle detector and tracker using YOLO for Automated Parking Allocation System.
 
 ---
 ## 📚 Education 💡
@@ -147,9 +149,9 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## 📫 Get in Touch
 
-* 📧 Email: [jrajput262@gmail.com](mailto:jrajput262@gmail.com)
-* 🌐 Portfolio: [jaysinghr.github.io](https://jaysinghr.github.io/)
-* 💼 LinkedIn: [jaydeepsinh-rajput](https://www.linkedin.com/in/jaydeepsinh-rajput/)
+ 📧 Email: [jrajput262@gmail.com](mailto:jrajput262@gmail.com)\
+ 🌐 Portfolio: [jaysinghr.github.io](https://jaysinghr.github.io/)\
+ 💼 LinkedIn: [jaydeepsinh-rajput](https://www.linkedin.com/in/jaydeepsinh-rajput/)
 
 ---
 [![Jay’s github stats](https://github-readme-stats.vercel.app/api?username=jaysinghr)](https://github.com/jaysinghr)
@@ -157,3 +159,11 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysinghr&layout=compact)](https://github.com/jaysinghr)
 
 </details>
+
+
+Developed a Proof of Concept (PoC) for a Retrieval Augmented Generation (RAG) application using Oracle Cloud user guide, incorporating Hugging Face pipeline and FAISS database to store embedding vectors.
+
+Integrated Langchain for chat functionality to enhance the RAG application's capabilities.
+
+
+Utilized LLAMA 2 framework to build and optimize the Oracle Cloud-based RAG application for efficient performance.
