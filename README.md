@@ -126,9 +126,33 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ---
 ## Projects
 
-* [Project 1 Name] ([Link to project]) (describe key features and impact)
-* [Project 2 Name] ([Link to project]) (describe key features and impact)
-* [Other relevant projects] (briefly summarize)
+### Oracle Cloud - RAG Application based on LLAMA 2 🚀
+👨‍💻 **Company:** Oracle
+- Developed a Proof of Concept (PoC) for a Retrieval Augmented Generation (RAG) application using Oracle Cloud user guide, incorporating Hugging Face pipeline and FAISS database to store embedding vectors.
+- Integrated Langchain for chat functionality to enhance the RAG application's capabilities.
+- Utilized LLAMA 2 framework to build and optimize the Oracle Cloud-based RAG application for efficient performance.
+
+### minimalai - A Flexible Deep Learning Framework 🚀
+👨‍💻 **Company:** Personal Project - [minimalai](https://github.com/jaysinghr/DL-to-Diffusion)
+- Developed 'MinimalAI', a custom Deep Learning framework using Python, from scratch, enabling flexible adaptation for various use cases.
+- Developed comprehensive notebooks encompassing diverse subjects, exercises, and practical applications following Jeremy Howard's Deep Learning Foundations to Stable Diffusion course.
+
+### NLP/NLU based Search Engine/Chatbot 🚀
+👨‍💻 **Company:** Tata Consultancy Services
+- Developed a Named Entity Recogniser (NER) and Relation Extractor (RE) model achieving an accuracy rate of approximately 81% for Nokia's technical documents to enhance information retrieval.
+- Developed a table parser utilizing Python to extract Named Entities and Relations from document tables, achieving a remarkable accuracy rate of approximately 92%.
+- Automated Openstack cloud VM backup & restore and MongoDB dump process, reducing manual backup time by 70%.
+
+### Vehicle Detection and Counting 🚀
+👨‍💻 **Company:** Tata Consultancy Services
+- Developed and implemented a vehicle detection system utilizing the YOLO algorithm within the Darknet architecture, achieving an accuracy of approximately 84%.
+- Integrated tracking and counting functionality for vehicles by utilizing Dlib and OpenCV libraries.
+
+### Circuit Anomaly Detection using Custom CNN 🚀
+👨‍💻 **Company:** Tata Consultancy Services
+- Developed a custom Convolutional Neural Network (CNN) architecture tailored to the specific characteristics of circuit images, achieving a high accuracy of approximately 96%.
+- Utilized Python and Keras to preprocess circuit images and train the CNN model for anomaly detection.
+
 
 ---
 ## 🎓 Courses & Certificates 🏆
@@ -150,7 +174,6 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ## 📫 Get in Touch
 
  📧 Email: [jrajput262@gmail.com](mailto:jrajput262@gmail.com)\
- 🌐 Portfolio: [jaysinghr.github.io](https://jaysinghr.github.io/)\
  💼 LinkedIn: [jaydeepsinh-rajput](https://www.linkedin.com/in/jaydeepsinh-rajput/)
 
 ---
