@@ -40,29 +40,29 @@ Hi there! I'm Jaydeepsinh Rajput, a Machine Learning Engineer with a drive to co
 ## Skills
 
 ### Programming Languages
-Python, C++ (Beginner)
+🐍 Python, C++ (Beginner)
 
 ### Machine Learning & Deep Learning
-Machine Learning, Natural Language Processing, Data Science, Deep Learning, Stable Diffusion, Language Modeling,
+🤖 Machine Learning, Natural Language Processing, Data Science, Deep Learning, Stable Diffusion, Language Modeling,
 Generative AI, Artificial Intelligence, Large Language Models, LLM-Finetuning
 
 ### Machine Learning Frameworks & Libraries
-PyTorch, Transformers, Datasets, Accelerate, Diffusers, PEFT, Tokenizer, Timm, Langchain, Fastai, TensorFlow, Keras, Scikit-Learn, SciPy, Matplotlib, Pandas, NumPy, CUDA
+🛠️ PyTorch, Transformers, Datasets, Accelerate, Diffusers, PEFT, Tokenizer, Timm, Langchain, Fastai, TensorFlow, Keras, Scikit-Learn, SciPy, Matplotlib, Pandas, NumPy, CUDA
 
 ### Cloud Platforms
-Oracle Cloud, Azure Cloud, AWS, Google Cloud, OpenStack
+☁️ Oracle Cloud, Azure Cloud, AWS, Google Cloud, OpenStack
 
 ### DevOps & CI/CD
-Microservices, Docker, Kubernetes, GitLab CI, Terraform
+🚀 Microservices, Docker, Kubernetes, GitLab CI, Terraform
 
 ### Web Development
-Django, Flask, Streamlit, Gradio
+🌐 Django, Flask, Streamlit, Gradio
 
 ### Version Control & Collaboration
-Git, GitHub, GitLab, Confluence, Jira
+🔗 Git, GitHub, GitLab, Confluence, Jira
 
 ### Other
-Postman, Rancher
+🛠️ Postman, Rancher
 
 
 ---
